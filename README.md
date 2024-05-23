@@ -7,7 +7,7 @@ in College Park, MD. I'm a fourth year looking to graduate with my Bachelor's De
 - 🖥️ I’m currently studying Computer Science @ University of Maryland
 - 🔭 I’m currently working on a personal website portfolio.
 - 🌱 I’m currently learning CSS, HTML, and JavaScript
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rubinwilliam/) or [Email](williamrubin777@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rubinwilliam/) or Email (williamrubin777@gmail.com)
 - ⚡ Fun fact: I play basketball and make my own songs.
 
 <!--
