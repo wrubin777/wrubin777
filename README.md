@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🖥️ I’m currently studying Computer Science @ University of Maryland
+- 🔭 I’m currently working on a personal website portfolio.
+- 🌱 I’m currently learning CSS, HTML, and JavaScript
+- 📫 How to reach me: LinkedIn or Email (williamrubin777@gmail.com)
 
 <!--
 **mir0codes/mir0codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
