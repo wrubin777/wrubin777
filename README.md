@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-Welcome to my GitHub page! My name is William Rubin, and I'm a student at the University of Maryland
-in College Park, MD. I'm a fourth year looking to graduate with my Bachelor's Degree in Spring of
-2025. I specialize in website and app development, freelancing on Fiverr and Upwork currently.
+Welcome to my GitHub page! My name is William Rubin, and I'm a college graduatre from the University of Maryland
+in College Park, MD. I've succeeded in getting my Bachelor's Degree in Spring of
+2025. I specialize in AI and Machine Learning Development, and am currently working on a major business project.
 
-- 🖥️ I’m currently studying Computer Science @ University of Maryland
-- 🔭 I’m currently working on a personal website portfolio.
-- 🌱 I’m currently learning CSS, HTML, and JavaScript
+- 🖥️ I’ve graduated from UMD at the age of 20.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rubinwilliam/) or Email (williamrubin777@gmail.com)
 - ⚡ Fun fact: I play basketball and make my own songs.
 
