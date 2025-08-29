@@ -2,7 +2,8 @@
 
 Welcome to my GitHub page! My name is William Rubin, and I'm a college graduatre from the University of Maryland
 in College Park, MD. I've succeeded in getting my Bachelor's Degree in Spring of
-2025. I specialize in AI and Machine Learning Development, and am currently working on a major business project.
+2025. I specialize in AI and Machine Learning Development, and am currently working as a software engineer for a company named Podium. On top of that,
+I am currently developing a revolutionary fitness social media app.
 
 - 🖥️ I’ve graduated from UMD at the age of 20.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rubinwilliam/) or Email (williamrubin777@gmail.com)
