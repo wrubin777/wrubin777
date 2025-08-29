@@ -5,9 +5,9 @@ in College Park, MD. I've succeeded in getting my Bachelor's Degree in Spring of
 2025. I specialize in AI and Machine Learning Development, and am currently working as a software engineer for a company named Podium. On top of that,
 I am currently developing a revolutionary fitness social media app.
 
-- 🖥️ I’ve graduated from UMD at the age of 20.
+- 🖥️ I’ve graduated from UMD with a B.s. in Computer Science
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rubinwilliam/) or Email (williamrubin777@gmail.com)
-- ⚡ Fun fact: I play basketball and make my own songs.
+- ⚡ Hobbies: Basketball and Music Production
 
 <!--
 **mir0codes/mir0codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
